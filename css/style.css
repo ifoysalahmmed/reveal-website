@@ -1,0 +1,31 @@
+.reveal-bg-color{
+    background-color: #50d8af;
+}
+.banner-img-1 {
+    background-image: url("../image/carousel/3.jpg");
+    height: 100vh;
+}
+
+.banner-img-2 {
+    background-image: url("../image/carousel/4.jpg");
+    height: 100vh;
+}
+
+.banner-img-3 {
+    background-image: url("../image/carousel/5.jpg");
+    height: 100vh;
+}
+
+.banner-img-4 {
+    background-image: url("../image/carousel/2.jpg");
+    height: 100vh;
+}
+
+.banner-img-5 {
+    background-image: url("../image/carousel/1.jpg");
+    height: 100vh;
+}
+
+.client-img {
+    width: 160px;
+}
